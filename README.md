@@ -139,8 +139,15 @@ Essa divisão permitiu separar a camada visual, a camada de aplicação e a pers
 
 Você pode adicionar aqui:
 
-![Dashboard do Big Chock](../docs/images/dashboard.png)
-[Assistir demonstração mobile](../docs/videos/mobile.mp4)
+## 📷 Apresentação do projeto
+
+<p align="center">
+  <img src="../docs/images/dashboard.png" alt="Dashboard do Big Chock" width="900">
+</p>
+
+<p align="center">
+  <img src="../docs/images/gi.gif" alt="Preview animado do Big Chock" width="900">
+</p>
 
 - prints da landing page
 - prints do painel administrativo
