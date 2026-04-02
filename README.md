@@ -8,15 +8,8 @@ A solução foi pensada para unir uma experiência simples para o cliente com um
 
 Projeto web desenvolvido para a **Big Chock**, com foco em apresentação de produtos, captação de leads e direcionamento de pedidos via **WhatsApp**.
 
-<div align="center">
-    <img width="900px" src="../docs/images/dashboard.png" alt="Dashboard do Big Chock"/>
-</div>
-
-<br>
-
-<div align="center">
-    <img width="900px" src="../docs/images/gi.gif" alt="Preview animado do Big Chock"/>
-</div>
+<img width="900px" src="./docs/images/dashboard.png" alt="Dashboard do Big Chock"/>
+<img width="900px" src="./docs/images/gi.gif" alt="Preview animado do Big Chock"/>
 
 ---
 
