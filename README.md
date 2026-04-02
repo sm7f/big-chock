@@ -113,11 +113,15 @@ Use como base os exemplos:
 
 ---
 
-## 🌐 Deploy sugerido
+## 🌐 Hospedagem e deploy
 
-- **Frontend:** Netlify
-- **API:** deploy separado, como `api.seudominio.com`
+A aplicação foi distribuída da seguinte forma:
+
+- **Frontend:** Cloudflare
+- **API / Backend:** Render
 - **Banco de dados:** MongoDB Atlas
+
+Essa divisão permitiu separar a camada visual, a camada de aplicação e a persistência de dados em serviços específicos para cada finalidade.
 
 ---
 
@@ -138,7 +142,8 @@ Você pode adicionar aqui:
 - prints da landing page
 - prints do painel administrativo
 - GIF ou vídeo curto do fluxo principal
-- link de deploy, se existir
+- link do frontend, se estiver público
+- link da API, se desejar expor endpoint público/documentação
 
 Exemplo:
 
@@ -160,6 +165,7 @@ Esse projeto foi importante para consolidar prática em:
 - captação e acompanhamento de leads
 - segurança básica de aplicação web
 - estruturação de painel administrativo
+- deploy distribuído em múltiplos serviços
 
 ---
 
