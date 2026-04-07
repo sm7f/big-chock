@@ -4,12 +4,9 @@ Projeto web desenvolvido para a **Big Chock**, com foco em apresentação de pro
 
 A solução foi pensada para unir uma experiência simples para o cliente com uma estrutura interna de acompanhamento operacional.
 
----
-
-Projeto web desenvolvido para a **Big Chock**, com foco em apresentação de produtos, captação de leads e direcionamento de pedidos via **WhatsApp**.
-
+<img width="900px" src="./docs/images/landing.png" alt="Landing pública do Big Chock"/>
+<img width="900px" src="./docs/images/login.png" alt="Tela de login do painel Big Chock"/>
 <img width="900px" src="./docs/images/dashboard.png" alt="Dashboard do Big Chock"/>
-<img width="900px" src="./docs/images/gi.gif" alt="Preview animado do Big Chock"/>
 
 ---
 
